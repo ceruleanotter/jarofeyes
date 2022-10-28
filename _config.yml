@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Jar of Eyes
 description         : 
-                      Hi, my name is Lyla (she/her) and I'm a Massachusets based TTRPG writer, techie and teacher. Check out <a href="https://www.dmsguild.com/product/414428/Encounters-in-the-Radiant-Citadel?src=LF&affiliate_id=1656723">Encounters in the Radiant Citadel</a> (copper 🏆 in <24 hours) and <a href="https://jarofeyes.itch.io/jukebox">Jukebox, a karaoke musical roleplaying game</a>. For game updates and freebies, sign up for the <a href="https://jarofeyes.substack.com">Jar of Eyes Gazetter</a>. <br/><br/> Want to make games together or chat about your projects? Send me an email at jarofeyesgames(at)gmail.com!
+                      Hi, my name is Lyla (she/her) and I'm a Massachusets based TTRPG writer, techie, and teacher. Check out <a href="https://www.dmsguild.com/product/414428/Encounters-in-the-Radiant-Citadel?src=LF&affiliate_id=1656723">Encounters in the Radiant Citadel</a> (copper 🏆 in <24 hours) and <a href="https://jarofeyes.itch.io/jukebox">Jukebox, a karaoke musical roleplaying game</a>. For game updates and freebies, sign up for the <a href="https://jarofeyes.substack.com">Jar of Eyes Gazetteer</a>. <br/><br/> Want to make games together or chat about your projects? Send me an email at jarofeyesgames(at)gmail.com!
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 #repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
