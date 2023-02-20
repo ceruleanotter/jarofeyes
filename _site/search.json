@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "Social Media, Minimalism, Technology",
       "url"      : "/blog/digital-minimalism",
-      "date"     : "2019-02-20 00:00:00 -0800"
+      "date"     : "2019-02-20 00:00:00 -0500"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "React, JavaScript, Web Development",
       "url"      : "/blog/learn-react-js",
-      "date"     : "2019-02-15 00:00:00 -0800"
+      "date"     : "2019-02-15 00:00:00 -0500"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "Software Development, Clean Code",
       "url"      : "/blog/clean-coding",
-      "date"     : "2018-12-10 00:00:00 -0800"
+      "date"     : "2018-12-10 00:00:00 -0500"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "JavaScript, Nodejs, Web Development",
       "url"      : "/blog/what-the-heck-is-a-callback",
-      "date"     : "2018-12-01 00:00:00 -0800"
+      "date"     : "2018-12-01 00:00:00 -0500"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/blog/four-lessons-after-eleven-years-in-silicon-valley",
-      "date"     : "2018-05-09 00:00:00 -0700"
+      "date"     : "2018-05-09 00:00:00 -0400"
     } ,
   
     {
@@ -45,7 +45,7 @@
       "category" : "",
       "tags"     : "GitHub, Workflow",
       "url"      : "/blog/github-flow",
-      "date"     : "2017-01-01 00:00:00 -0800"
+      "date"     : "2017-01-01 00:00:00 -0500"
     } ,
   
     {
@@ -53,7 +53,7 @@
       "category" : "",
       "tags"     : "Software Development",
       "url"      : "/blog/a-better-hello-world",
-      "date"     : "2016-07-23 00:00:00 -0700"
+      "date"     : "2016-07-23 00:00:00 -0400"
     } ,
   
     {
@@ -61,7 +61,7 @@
       "category" : "",
       "tags"     : "Poetry",
       "url"      : "/blog/do-not-go-gentle-into-that-good-night",
-      "date"     : "2016-04-17 00:00:00 -0700"
+      "date"     : "2016-04-17 00:00:00 -0400"
     } ,
   
     {
@@ -69,7 +69,7 @@
       "category" : "",
       "tags"     : "Version Control",
       "url"      : "/blog/what-is-version-control",
-      "date"     : "2016-02-09 00:00:00 -0800"
+      "date"     : "2016-02-09 00:00:00 -0500"
     } ,
   
     {
@@ -77,7 +77,7 @@
       "category" : "",
       "tags"     : "External Post, Git",
       "url"      : "https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74",
-      "date"     : "2015-09-25 00:00:00 -0700"
+      "date"     : "2015-09-25 00:00:00 -0400"
     } 
   
 ]
