@@ -1,0 +1,27 @@
+- name: Android
+  percentage: 100
+  color: success
+
+- name: Android Studio/IntelliJ
+  percentage: 100
+  color: success
+
+- name: Git/Github
+  percentage: 100
+  color: success
+
+- name: Project Management
+  percentage: 90
+  color: success
+
+- name: Kotlin
+  percentage: 90
+  color: success
+
+- name: Java
+  percentage: 90
+  color: success
+
+- name: Firebase
+  percentage: 75
+  color: success
