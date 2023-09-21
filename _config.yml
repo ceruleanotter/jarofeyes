@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Jar of Eyes
 description         : 
-  <p>Hi, my name is Lyla (she/her)! I'm a Massachusetts-based TTRPG writer and project manager. I have a <a href="https://www.jarofeyes.com/about/">background</a> in teaching and technology and am a <a href="https://www.storytellingcollective.com/pages/creative-laureates">2023 Storytelling Collective Creative Laureate</a>.</p><p>See <a href="https://www.jarofeyes.com/projects/">Projects</a> for a portfolio of my work. For game updates, design advice, and freebies read my newsletter and blog, <a href="https://jarofeyes.substack.com">The Jar of Eyes Game Gazette</a>.</p><p>Want to make games together or chat about your projects? Send me an email at jarofeyesgames(at)gmail.com!</p>
+ <p>Hi, my name is Lyla aka Jar of Eyes Games. I'm a Massachusetts-based TTRPG writer and project manager with a decade-long career in instructional design and technology with the Peace Corps, Udacity, and Google.</p><p>Stay up-to-date on my work by subscribing to the <a href="https://jarofeyes.substack.com/">Jar of Eyes Game Gazette</a></p><p>Want to make games together or chat about your projects? Send me an email at jarofeyesgames@gmail.com!</p>
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 #repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -20,7 +20,8 @@ nav_exclude:                                            # The following paths ar
   - pages/index.md
   - pages/blog.html
   # - pages/about.md
-  # - pages/projects.html
+  # - pages/writing.html
+  # - pages/projectmanagement.html
   # - documentation/partials/**                           # For Documentation Only
 
 
