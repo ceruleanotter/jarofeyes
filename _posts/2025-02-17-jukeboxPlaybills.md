@@ -10,7 +10,7 @@ description: Jukebox Playbill download instructions
 Everyone who purchases a physical copy of Jukebox is entitled to both the PDF of the game, all 16 playsets that come with it, and the blank playbill. Where your PDFs are depends on where you got your copy of Jukebox.
 
 
-## I backed Jukebox on Kickstarter
+### I backed Jukebox on Kickstarter
 
 If you backed Jukebox at any amount above $10, you got the PDF version of the game. To make as certain as possible folks got the game, it was delivered in two ways:
 
@@ -22,7 +22,7 @@ Both of these methods sent codes to the **email address associated with your Kic
 If you no longer have access to your Kickstarter email, please reach out via [Kickstarter message](https://www.kickstarter.com/projects/jarofeyes/jukebox-the-karaoke-musical-ttrpg) and let us know your new email so we can officially get you your PDF copy of the game. In the meantime, if you're about to play Jukebox and need access to the print files **now**, you can fill out the [Jukebox Playset and PDF Help Form](https://docs.google.com/forms/d/e/1FAIpQLSe-1j_rUEaTqIHzXNlr_jT-MnRVAyQI2pPP6G25L-TbiT2JuA/viewform?usp=header).
 
 
-## I bought Jukebox on itch.io
+### I bought Jukebox on itch.io
 Log in to itch.io and navigate to [https://jarofeyes.itch.io/jukebox](https://jarofeyes.itch.io/jukebox). There, you'll see the list of files associated with the project. The playbills are these files:
 
 ![Show a list of files on itch.io, including the filenames v2_Contributor_Playset_Playbills.pdf, v2_Core_Playset_Playbills.pdf, v2_Blank_Playbill.pdf, v2_Core_Contributor_Playset_Playbills_ScreenReaderPrinterFriendly.pdf all highlighted](../images/itchioPlaybills.png "Itch.io Playbills")
@@ -31,23 +31,28 @@ Log in to itch.io and navigate to [https://jarofeyes.itch.io/jukebox](https://ja
 You can read a summary of what's included below and in the back of the Jukebox rulebook.
 
 
-## If you purchased with Plus One Experience:
+### If you purchased with Plus One Experience:
 
 Plus One Experience will send you the PDFs at the email address you give them. If you're having any trouble, their [contact form and customer support is here](https://plusoneexp.com/pages/contact-us). 
 
 In the meantime, if you're about to play Jukebox and need access to the print files **now**, you can fill out the [Jukebox Playset and PDF Help Form](https://docs.google.com/forms/d/e/1FAIpQLSe-1j_rUEaTqIHzXNlr_jT-MnRVAyQI2pPP6G25L-TbiT2JuA/viewform?usp=header).
 
-## If you purchased with IPR:
+### If you purchased with Indie Press Revolution (IPR):
 
-Instructions will be posted here soon. In the meantime, if you're about to play Jukebox and need access to the print files **now**, you can fill out the [Jukebox Playset and PDF Help Form](https://docs.google.com/forms/d/e/1FAIpQLSe-1j_rUEaTqIHzXNlr_jT-MnRVAyQI2pPP6G25L-TbiT2JuA/viewform?usp=header).
+Where you get your PDFs depends on if you bought them online or in-person:
+* If you bought Jukebox at a convention from IPR, you will get access to the PDFs via a service called Bits and Mortar. To get this access, find your Square receipt and forward it to the email pdf@indiepressrevolution.com. They will then send you the PDFs via Bits and Mortar.
 
-## If you purchased at a physical store:
+* If you bought Jukebox from the [IPR website](https://www.indiepressrevolution.com/xcart/Jukebox-The-Karaoke-Musical-Tabletop-Roleplaying-Game-Print-PDF.html) you can downloads from your [IPR account page](https://www.indiepressrevolution.com/xcart/Account.html?mode=preview). If you're having any trouble, email IPR at support@indiepressrevolution.com with the details of your purchase and they'll get you your PDFs!
+
+In the meantime, if you're about to play Jukebox and need access to the print files **now**, you can fill out the [Jukebox Playset and PDF Help Form](https://docs.google.com/forms/d/e/1FAIpQLSe-1j_rUEaTqIHzXNlr_jT-MnRVAyQI2pPP6G25L-TbiT2JuA/viewform?usp=header).
+
+### If you purchased at a physical store:
 
 If the store works with [Bits & Mortar](https://bits-and-mortar.com), then you can and should go through them to get access to your PDF files.
 
 Otherwise keep reading...
 
-## Help! I'm still having trouble and I have a karaoke night to plan!
+### Help! I'm still having trouble and I have a karaoke night to plan!
 No worries, fill out the [Jukebox Playset and PDF Help Form](https://docs.google.com/forms/d/e/1FAIpQLSe-1j_rUEaTqIHzXNlr_jT-MnRVAyQI2pPP6G25L-TbiT2JuA/viewform?usp=header). The final page of that form gets you access to all of the playsets immediately and will allow me to follow-up to get you permanent access via itch.io
 
 
@@ -56,7 +61,7 @@ No worries, fill out the [Jukebox Playset and PDF Help Form](https://docs.google
 Jukebox was published with sixteen original playset playbills and one blank playbill.
 
 
-## Core Playbills
+### Core Playbills
 
 The following playsets were developed with the game:
 * **Epic Warriors of Rock**: A power metal, sword and sorcery playset.
@@ -65,7 +70,7 @@ The following playsets were developed with the game:
 * **Twisted Fairytales**: A Broadway musical folkloric playset. 
 
 
-## Playset Playbills
+### Playset Playbills
 
 These playsets were written by contributing designers: 
 * **Fabula Ex Fata**: A folk, acoustic Greek tragedy playset by Basil Wright.
